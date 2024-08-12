@@ -1,0 +1,46 @@
+11:39:02.377 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:39:02.395 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:39:02.396 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:39:02.397 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:39:02.405 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+11:39:02.428 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 21 ms.
+11:39:02.430 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:39:02.431 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:39:02.432 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:39:02.432 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:39:02.433 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:39:02.433 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:39:02.435 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:39:02.435 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:39:02.435 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:39:02.436 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:39:02.440 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:39:02.440 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:39:02.441 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:39:02.441 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:39:02.442 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:39:02.451 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+11:39:02.453 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:39:02.453 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:39:02.454 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:39:02.454 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:39:02.465 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\RTALLARI\AppData\Local\Temp\testng-eclipse--1612987271\testng-customsuite.xml
+
+11:39:02.492 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+11:39:02.852 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@30457e14: 171 ms
+11:39:02.892 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1b70203f: 40 ms
+11:39:02.917 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@9fecdf1: 25 ms
+11:39:02.941 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@22fa55b2: 23 ms
+11:39:02.964 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6c2f1700: 23 ms
+11:39:02.964 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@350b3a17: 0 ms
+11:39:27.671 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Windows\System32\config\systemprofile\eclipse-workspace\HybridFramework2\master.xml"
+11:39:28.275 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Windows\System32\config\systemprofile\eclipse-workspace\HybridFramework2\master.xml
+
+11:39:28.379 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.8.0
+11:39:29.089 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=126 in cache (valid until 12:03:23 02/07/2024 IST)
+11:39:29.091 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome126=126.0.6478.126 in cache (valid until 11:03:23 03/07/2024 IST)
+11:39:29.092 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+11:39:29.379 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 126.0.6478.126 found in cache
+11:39:29.381 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\RTALLARI\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
